@@ -1,0 +1,10 @@
+.header{
+    text-align: center;
+    background-color: lightgray;
+    /* color: blanchedalmond; */
+    color: black;
+    line-height: 50px;
+    padding: 10px;
+    margin: 60px;
+    border-radius: 10px;
+}

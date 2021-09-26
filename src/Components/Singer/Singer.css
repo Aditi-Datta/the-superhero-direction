@@ -1,0 +1,24 @@
+.singer-img{
+    width: 150px;
+    height: 100px;
+    padding: 10px;
+    
+}
+.singer{
+    border: 1px solid lightgray;
+    padding: 10px;
+    height: 400px;
+    border-radius: 15px;
+    background-color: lightsteelblue;
+}
+.btn-regular{
+    background-color: yellowgreen;
+    border: 1px solid gray;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.special-icon{
+    padding-left: 70px;
+}
